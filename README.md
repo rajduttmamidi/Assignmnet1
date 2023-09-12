@@ -67,7 +67,9 @@ Information is at risk of theft or misuse of information by cyber-criminals.
 Growth of exponential data.It becomes challenging because only new technologies must be used.
 
 -## Timeliness
-Certain scenarios require immediate action, but due to the large size of the data, analysis and interpretation may take some time. 
+Certain scenarios require immediate action, but due to the large size of the data, analysis and interpretation may take some time.
+
+(https://www.simplilearn.com/challenges-of-big-data-article#challenges_of_big_data)
 
 
 

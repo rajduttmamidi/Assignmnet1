@@ -15,7 +15,7 @@ Examples:audiofiles, Satellite imagery, No-SQL databases
 Semi-Structured Data:It is a combination of structured and unstructured data.  
 Examples:XML and JSON  
 
-(https://hevodata.com/learn/big-data-processing/)
+[Pranay Kumar.(2023). MyResearchProject: Assignment1.Github](https://hevodata.com/learn/big-data-processing/)
 
 ## 6 V's of Big Data
 - ### Volume:
@@ -69,7 +69,7 @@ Growth of exponential data.It becomes challenging because only new technologies 
 - ## Timeliness
 Certain scenarios require immediate action, but due to the large size of the data, analysis and interpretation may take some time.
 
-(https://www.simplilearn.com/challenges-of-big-data-article#challenges_of_big_data)
+[Simplilearn.(2023). MyResearchProject: Assignment1.Github](https://www.simplilearn.com/challenges-of-big-data-article#challenges_of_big_data)
 
 
 

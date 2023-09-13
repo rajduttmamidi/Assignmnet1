@@ -18,55 +18,55 @@ Examples:XML and JSON
 (https://hevodata.com/learn/big-data-processing/)
 
 ## 6 V's of Big Data
--### Volume:
+- ### Volume:
 Volume refers to the amount of data generated and saved in a Big Data system.
 
--### Velocity:
+- ### Velocity:
 Velocity refers that there will be more and more data available than previously available data, but it also implies that the data processing velocity must be just as fast.  
 
--### Variety:
+- ### Variety:
 Variety refers to the different formats of data as well as how they are structured and ready for processing.
 
 -### Value:
 Value refers to the data valuable and reliable, as well as data that must be preserved, analyzed, and assessed in order to gain insights.
 
--### Veracity
+- ### Veracity
 Veracity refers to the quality and accuracy of the data.At every stage of the Big Data collection and balances are required to ensure data authenticity.
 
--### Variability
+- ### Variability
 Variability refers to gaps in data that make processing and organizing it difficult.
 
 # Phases of Big Data Analysis
 
--### Phase-1 Data Extraction
+- ### Phase-1 Data Extraction
 Data is extracted from a variety of structured and unstructured data.We have to sort information inorder to retain the useful data which is helpful.
 
--### Phase-2 Data Transformation
+- ### Phase-2 Data Transformation
 After the data is sorted,we need to reshape or convert data into required formats, allowing for insights and visualization.
 
--### Phase-3 Data Loading
+- ### Phase-3 Data Loading
 Data is transported to the centralized database system.
 
--### Phase-4 Data Visualization
+- ### Phase-4 Data Visualization
 It enables organizations to visualize large datasets and build dashboards to get a comprehensive view of their entire business operations.
 
--### Phase-5 Interpretation
+- ### Phase-5 Interpretation
 We then interpret and validate the results.
 
 # Challenges in Big Data Analysis
--## Storage
+- ## Storage
 Larger amounts of data is being generated daily, the storing of data is challenging when there is unstructured data.
 
--## Processing
+- ## Processing
 Transforming, interpreting,extraction,and modifying the input and output of the information is difficult to handle.
 
--## Security
+- ## Security
 Information is at risk of theft or misuse of information by cyber-criminals.
 
--## Scaling
+- ## Scaling
 Growth of exponential data.It becomes challenging because only new technologies must be used.
 
--## Timeliness
+- ## Timeliness
 Certain scenarios require immediate action, but due to the large size of the data, analysis and interpretation may take some time.
 
 (https://www.simplilearn.com/challenges-of-big-data-article#challenges_of_big_data)
